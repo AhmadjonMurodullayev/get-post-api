@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$znIGs87kRB0TaHDRHE6sIOFuz4MV7xeK1w5jZoQ4m1l7DhkRCuDhu",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "ramer17845@duiter.com",
+      "password": "$2a$10$t6Bzo85tznlbC6gCIuRFpu44wOERku9KwFLGzCF6V0iafHRSvV//y",
+      "name": "Abdurahmon",
+      "id": 2
+    },
+    {
+      "email": "abdurahmon97v@gmail.com",
+      "password": "$2a$10$J/uuBR7mWy4shVrJ7pBHJ.t3su3/ZWglFjKd6vLfStQbpLkZwlvTS",
+      "name": "Abdurahmon2",
+      "id": 3
+    },
+    {
+      "email": "Ahmadjon@mail.com",
+      "password": "$2a$10$b4pGijEwFC7ObGApUXOkwO.XPi9YGE.5aQs7wNuEimkdIHd2AdXaG",
+      "firstname": "Olivier",
+      "lastname": "Ahmadjon",
+      "age": 18,
+      "id": 4
+    },
+    {
+      "email": "ahmadjon@gmail.com",
+      "password": "$2a$10$h.ChKT45u5cAIaTNvOSMfO3tZHzKu2uKtPgw9MgyasyrkiMqlWC/u",
+      "name": "Ahmadjon",
+      "id": 5
+    }
+  ],
+  "messages": [
+    {
+      "name": "Product 1",
+      "id": "1"
+    }
+  ]
+}
